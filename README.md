@@ -24,7 +24,7 @@ It was a lie. I opened a new LaTeX document and typed this thing, thanks to Stac
 
 ## Build
 
-    xelatex card
+    xelatex card.tex
 
 ## License
 
