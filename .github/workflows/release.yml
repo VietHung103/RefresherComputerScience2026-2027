@@ -18,6 +18,7 @@ jobs:
         uses: xu-cheng/latex-action@v4
         with:
           root_file: card.tex
+          latexml_use_xelatex: true
 
       - name: Create Release with PDF
         uses: softprops/action-gh-release@v2
